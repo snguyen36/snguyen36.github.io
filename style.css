@@ -1,0 +1,46 @@
+body {
+	background-image: url("horizon.jpg");
+	background-size: cover;
+	font-family: sans-serif;
+	color: #bababa;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+h1 {
+	color: white;
+}
+table {
+	
+	background-color: gray;
+	opacity: 0.6;
+	width: 40%;
+}
+tr {
+	border: 1px solid black;
+}
+table, tr, th, td {
+	color: black;
+}
+.section {
+	background-color: gray;
+	opacity: 0.8;
+	width: 40%;
+}
+a:hover {
+	background-color: green;
+}
+span {
+	color: red;
+	font-weight: bold;
+}
+p {
+	color: black;
+}
+img {
+	width: 290px;
+	height: 386px;
+}
+#author {
+	text-align: right;
+}
